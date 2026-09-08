@@ -125,6 +125,8 @@ The model produces three types of images for comparison:
 2. **Noisy** — the image after Gaussian noise has been added
 3. **Reconstructed** — the image reconstructed by the trained autoencoder
 
+   ![Image Denoising Results](denoising_results.png)
+
 Example output:
 
 ```text
