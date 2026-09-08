@@ -172,7 +172,7 @@ and run the cells sequentially.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/image-denoising-autoencoder.git
+git clone https://github.com/tankidunki/image-denoising-autoencoder.git
 ```
 
 Navigate to the project directory:
