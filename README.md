@@ -218,7 +218,7 @@ Potential improvements to this project include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Tanishk Rana**
 
 This project was developed as part of my learning journey in Deep Learning and Computer Vision.
 
